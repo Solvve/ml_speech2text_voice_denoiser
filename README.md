@@ -18,6 +18,7 @@ We follow the next steps:
 4. Modeling after denoise
 5. Fine-tune Wav2Vec multi-language ASR 
 
+From Wec2Vec2_Denoise.ipynb:
 | Levenshtein metrics | Mean | Median |
 |---|---|---|
 | Word Error Rate | 0.26 | 0.20 |
