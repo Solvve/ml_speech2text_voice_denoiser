@@ -1,0 +1,8 @@
+fuzzywuzzy==0.18.0
+jiwer==2.2.0
+plotly==4.4.1
+python-Levenshtein==0.12.2
+SoundFile==0.10.3.post1
+torch==1.8.1+cu101
+transformers==4.5.1
+
